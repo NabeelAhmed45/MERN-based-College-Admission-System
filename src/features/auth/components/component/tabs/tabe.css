@@ -1,0 +1,18 @@
+.tabs {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 15%;
+    text-transform: capitalize;
+    color: white;
+    margin-left: 9%;
+}
+
+.tab:hover {
+    text-decoration: underline;
+
+}
+
+.selectedtab {
+    text-decoration: underline;
+}

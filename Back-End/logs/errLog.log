@@ -1,0 +1,85 @@
+20240312	22:07:58	eb0b13aa-7295-4194-bfa7-494606edc433	Error: Not allowed by CORS	OPTIONS	/	https://www.google.com
+20240312	22:07:58	f66af64b-9329-4f1b-8297-88b1a0853fc9	Error: Not allowed by CORS	GET	/	https://www.google.com
+20240317	14:33:09	858744da-7cbb-497b-b948-286042dd407f	ReferenceError: User is not defined	GET	/users	undefined
+20240317	14:33:21	1ced1f1d-5651-4125-a52e-56587df72baf	ReferenceError: User is not defined	GET	/users	undefined
+20240317	14:36:44	86c4b1ef-5b37-4204-baa3-43a573dd97f6	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:36:56	6c88fec3-9e8d-4bd7-8072-f80d20f7e83a	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:37:35	4a5ac8fe-05a9-4644-8d03-9be83f4de902	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:44:20	2229707f-e3e2-475a-aed8-bbe69c5adf3b	ReferenceError: User is not defined	GET	/users	undefined
+20240317	14:46:24	7735cf5f-0720-47a1-9477-7f07a7a9e7ab	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:47:02	599592ae-ca53-420f-a503-158353449134	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:47:17	64b7ccd6-5c0f-483e-b590-7d23c9afb0df	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:47:25	9e4b3623-1b18-4960-aa10-e5ee5b75d9b7	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:49:18	b64c97b3-29ba-4567-8e15-56b383171d53	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:50:02	adf78e42-6736-4993-9f5a-f6f56f9de780	SyntaxError: Expected ',' or ']' after array element in JSON at position 81	POST	/users	undefined
+20240317	14:50:22	bba80865-4d17-458d-8a7e-d1338d43c3ff	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:51:14	fc312e13-6c6e-447d-9c56-d13774021324	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:53:53	e2a073f1-9217-451d-a0c0-4a0f876ed469	ReferenceError: User is not defined	GET	/users	undefined
+20240317	14:54:56	369efe27-bb51-4ae9-8752-06f2e14734e2	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:55:57	78c34af8-1c1c-4a9f-9786-3bc57416a521	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:56:58	c35be44c-8dcb-4deb-8412-934c16afe50c	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:57:35	430cd424-5f0f-4a0d-86ff-3d99d90741ca	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:58:03	89b87b1d-79e6-4dfa-9e84-d4f7a9e724be	ReferenceError: User is not defined	POST	/users	undefined
+20240317	14:59:30	6af87e3d-98bb-40af-a5c9-d818effdc8f6	ReferenceError: User is not defined	POST	/users	undefined
+20240317	15:02:05	a64a1dbf-9264-4afc-a130-aa9bedea55f2	ReferenceError: User is not defined	POST	/users	undefined
+20240317	15:05:21	e707dccf-8d22-4e01-9f37-fd3011c599f2	ReferenceError: User is not defined	GET	/users	undefined
+20240317	15:05:41	d9bbd6ca-3c3d-4ed0-b2a9-817b308ece30	ReferenceError: User is not defined	GET	/users	undefined
+20240317	15:07:24	934f8e62-75df-4ea2-b8f7-33a3d32d41d0	ReferenceError: User is not defined	GET	/users	undefined
+20240317	15:22:19	78c258c9-74f0-4225-9f92-2424c17ad101	SyntaxError: Expected ',' or '}' after property value in JSON at position 119	PATCH	/users	undefined
+20240317	15:37:46	5d4c0101-3c4e-4587-a33c-b51bbf8cccdd	CastError: Cast to ObjectId failed for value "65f6c72c8365fd237c1b49a" (type string) at path "user" for model "Note"	DELETE	/users	undefined
+20240317	17:41:55	eef33891-85f5-40b9-86cf-447f093702dd	SyntaxError: Unexpected non-whitespace character after JSON at position 178	DELETE	/users	undefined
+20240331	17:14:29	907803ac-1267-40ec-9681-fa47d9a359d6	SyntaxError: Expected double-quoted property name in JSON at position 179	POST	/notes	undefined
+20240331	17:14:38	875c6f4f-8c9a-4704-8039-94ccf03f3f9f	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Nabeel" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240331	17:14:54	4c357c08-8d76-420a-a8ed-5b476cbec968	SyntaxError: Expected double-quoted property name in JSON at position 162	POST	/notes	undefined
+20240331	17:15:17	f4b25017-9b4d-43a3-bbc1-9a5025e47025	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Admin" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240331	17:22:10	b2d10c99-6469-4a73-9908-e31e96ac0493	SyntaxError: Unexpected end of JSON input	GET	/users	undefined
+20240331	17:23:28	8988a0a8-a05c-40f3-b875-a07a681fc45b	SyntaxError: Expected double-quoted property name in JSON at position 129	POST	/users	undefined
+20240331	17:26:08	35eddb5b-f8f7-4185-8cd2-ac4082cf7ec3	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Nabeel" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240331	17:31:04	8fadeea4-c36e-4a96-85b9-3cabfbdcaaa0	MongoServerSelectionError: getaddrinfo ENOTFOUND ac-dsem5ll-shard-00-00.mll08cw.mongodb.net	POST	/notes	undefined
+20240424	12:29:00	c9fd9d36-31a1-4e43-b349-e7e025bcbf19	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "cmpleted" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240424	12:29:10	1a1bbee3-f6b5-4047-b33f-e0d2a2f023be	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "completed" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240424	12:34:27	515e9b8d-4fb5-490d-b0aa-ee8475189ca1	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "completed" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240424	12:35:10	ac742140-eba0-4ed4-90ba-b702e73f66ca	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Nabeel" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240424	12:35:23	8447d5b8-c23e-4a37-8e33-d29dd5bf650f	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "As" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20240506	19:16:53	2eb951f8-8c82-4b85-9d96-b1522064a0f4	SyntaxError: Expected ':' after property name in JSON at position 92	POST	/users	undefined
+20240506	19:17:29	6cedd2a8-2660-405f-9d71-75a0effa87d9	SyntaxError: Expected property name or '}' in JSON at position 68	POST	/users	undefined
+20240506	19:18:25	fa4ecdd9-6ba7-466c-8c5b-c0fb452d58d8	SyntaxError: Expected double-quoted property name in JSON at position 60	POST	/auth	undefined
+20240506	19:38:40	f14f597a-5dd7-4a21-baee-283138cbe62c	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20240506	19:41:52	71236183-7c42-4848-a188-63600ddb5932	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20240506	22:34:36	57127204-e439-470e-8aca-f82415394527	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20240508	19:11:53	b6a2d479-261e-4f3c-a4d0-dfa4e92ff85d	Error: Not allowed by CORS	GET	/users	http://localhost:3000
+20240508	19:11:53	72b2bfcc-ecd2-4800-a4b0-a0e7fd8be883	Error: Not allowed by CORS	GET	/notes	http://localhost:3000
+20240508	19:15:17	a6ec79b4-b53a-46b8-ab0f-9e2b580c390f	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20240508	19:53:10	c18a22ed-d701-44e0-a14f-403946cd2568	Error: Not allowed by CORS	OPTIONS	/auth	http://192.168.188.129:3000
+20240508	19:53:28	e7b2a0be-8e9e-4569-93e3-b5690021c3fd	Error: Not allowed by CORS	OPTIONS	/auth	http://192.168.188.129:3000
+20240511	14:19:36	b9703b25-adac-4b61-ac40-525c9b0ce623	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20240625	22:54:21	a2329d79-1722-458e-92a1-f8056f343b43	Error: Not allowed by CORS	OPTIONS	/login	http://localhost:5173
+20240625	22:54:35	1d59746f-ebce-4763-91b6-f594dc2613a4	Error: Not allowed by CORS	OPTIONS	/register	http://localhost:5173
+20240625	22:54:37	8cb011e2-8155-4adf-b004-7d34c7e7fb41	Error: Not allowed by CORS	OPTIONS	/register	http://localhost:5173
+20240625	22:54:37	2228e149-5d83-4c29-bac8-82039bb625e3	Error: Not allowed by CORS	OPTIONS	/register	http://localhost:5173
+20240625	22:54:37	154f8c2f-7db7-48db-8bc7-e0783cd73944	Error: Not allowed by CORS	OPTIONS	/register	http://localhost:5173
+20240625	22:54:38	5c8cf638-90f6-49d9-9d5a-27e852f00df2	Error: Not allowed by CORS	OPTIONS	/register	http://localhost:5173
+20240625	22:54:38	c1bda2aa-7906-48e9-b4b0-7850bf1ce46a	Error: Not allowed by CORS	OPTIONS	/register	http://localhost:5173
+20240625	22:56:29	fa67f626-0454-43e2-a836-b7c7a7d6bc4e	Error: Not allowed by CORS	OPTIONS	/login	http://localhost:5173
+20240702	03:38:23	1b9c7d02-925f-4de5-86d6-515e0ff98644	MongoServerSelectionError: getaddrinfo ENOTFOUND ac-ltmuwz9-shard-00-00.dbaplip.mongodb.net	POST	/auth	http://localhost:3000
+20240702	03:38:43	c79896b3-bd8a-404f-b345-a7afcf521824	MongoServerSelectionError: getaddrinfo ENOTFOUND ac-ltmuwz9-shard-00-00.dbaplip.mongodb.net	POST	/auth	http://localhost:3000
+20240704	02:33:50	700ae890-9097-477c-9d0a-b70fd5106191	Error: Not allowed by CORS	OPTIONS	/home	http://localhost:3000
+20240711	00:25:25	f13ec24d-9174-4ca0-96fc-dc1fce611a32	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	00:47:03	3784c193-ea1c-475e-88dd-6aab65b4ac4c	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	00:59:02	5ca1d1cc-9c7d-446c-88c8-382b05c6c810	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	00:59:06	474660a9-cb6a-49af-a4d6-9d68682333c6	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	00:59:54	fe141f9b-dbf1-4d4a-b919-bccfb2d0cd15	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	00:59:57	094a4146-68dc-40e7-98dc-88725404c20b	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:00:24	63a76042-e098-443f-b126-f69225f41e70	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:00:27	ca696656-9610-4aa2-a491-b3ee687bc0ac	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:02:45	b92b0abb-1fce-425a-9f32-855135c72e36	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:02:48	26945d31-e873-4516-baf9-39edbc2bab0a	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:03:42	ed89d067-960e-4cc6-9d4e-7cdcfdcc5edd	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:07:18	e16c14f0-7f38-4f5f-b299-35a1eadbf5cf	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:07:21	4dccc4d5-489d-4208-8a16-89d53630cb91	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:07:42	1a65bc6a-2348-488b-9b97-2081034fc940	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:07:45	a0a6292e-943a-4e3a-a85f-a03a3e9ba875	Error: Cannot set headers after they are sent to the client	POST	/home	http://localhost:3000
+20240711	01:20:43	7847be43-b5cc-45e4-a44d-c21a1f7ef358	ReferenceError: submissions is not defined	GET	/home/A1DBB6n51COfNVCz6ZUBTuVK2br1	http://localhost:3000
+20240711	01:21:17	6f3222e9-31cd-46bd-b847-7bde76ec9781	ReferenceError: submissions is not defined	GET	/home/A1DBB6n51COfNVCz6ZUBTuVK2br1	http://localhost:3000
+20240711	01:57:02	0822db4b-56a8-426d-9d94-c7ebb185fedd	MongooseError: Model.findOne() no longer accepts a callback	GET	/home/checkCnic/3450169361689	http://localhost:3000
+20240711	01:57:56	1da771d6-dfc8-4839-962f-3de92aa9af88	MongooseError: Model.findOne() no longer accepts a callback	GET	/home/checkCnic/3450169361689	http://localhost:3000
